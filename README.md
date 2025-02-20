@@ -23,4 +23,4 @@ SMS Messages
 * SVC
 * Random Forest
   
-Best Model Accuracy: 97.48
+Best Model Accuracy: 97.41
